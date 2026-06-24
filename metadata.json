@@ -1,0 +1,6 @@
+{
+  "name": "Hygiene360",
+  "description": "Smart Toilet Maintenance Management App for Schools",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
